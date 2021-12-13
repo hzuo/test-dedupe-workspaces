@@ -1,0 +1,8 @@
+{
+  "name": "test-workspaces",
+  "version": "0.1.0",
+  "workspaces": [
+    "package-a",
+    "package-z"
+  ]
+}
